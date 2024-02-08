@@ -8,3 +8,4 @@
 - **リマインダーの時間設定**: 学習スケジュールに合わせて通知の時間をカスタマイズします。
 - **通知の繰り返し**: リスト全体を終えた後に通知が繰り返されるオプションがあり、継続的な復習を保証します。
 - **柔軟なカスタマイズ**: 個人のニーズに合わせて通知設定（音と頻度を含む）をカスタマイズします。
+<img src="https://raw.githubusercontent.com/huynhscenes/NotiReminder/master/372522199_1332865867668629_7481649565324973610_n.jpg" width="30%" /> <img src="https://raw.githubusercontent.com/huynhscenes/NotiReminder/master/372334597_845730793410985_997291575698548513_n.jpg" width="30%" /> <img src="https://raw.githubusercontent.com/huynhscenes/NotiReminder/master/372128667_1999936553672916_6531195640444621851_n.jpg" width="30%" />
